@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/117657623?v=4" width="50%"/>
+  <img src="https://avatars.githubusercontent.com/u/117657623?v=4" style=" width: 50%;"/>
   
 </div>
 
