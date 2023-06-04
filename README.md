@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <a href="https://bit.ly/3qu0q7z" target="blank">
+  <a href="https://bit.ly/3qu0q7z" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/117657623?v=4"/>
   </a>  
 </div>
