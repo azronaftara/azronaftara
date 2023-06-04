@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/117657623?v=4" style="border-radius:50%; width:50%; height:50%;"/>
+  <a href="">
+  <img src="https://avatars.githubusercontent.com/u/117657623?v=4"/>
+  </a>  
 </div>
 
 
