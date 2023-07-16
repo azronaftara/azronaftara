@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <a href="https://bit.ly/3qu0q7z">
-  <img src="https://avatars.githubusercontent.com/u/117657623?v=4"/>
-  </a>  
+  <h1>Hello World!👋</h1>
 </div>
 
 
